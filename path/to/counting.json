@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "691798674025",
+    "firebase_url": "https://countingcars-4a603.firebaseio.com",
+    "project_id": "countingcars-4a603",
+    "storage_bucket": "countingcars-4a603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691798674025:android:e326fe426bdb3179",
+        "android_client_info": {
+          "package_name": "com.faltar.counting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkd1nzgeZHxM7rLfF73FtyBgiFTIjGAbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691798674025-2cgc0ghchvrdalbauh29d8jajt8k41n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
